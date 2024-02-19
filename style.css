@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.hero-section{
+    background: url(images/coder-girl.jpg);
+    height: 100vh;
+    background-size:cover;
+    background-position: center;
+    
+}
+.text-container{
+    margin: 0 auto;
+    padding-top: 45px;
+    padding-left: 40%;
+    line-height: 1.5;
+}
+.lg-txt{
+    font-size: 65px;
+    color: rgb(255, 255, 255);
+    font-weight:400;
+
+}
+.lg-txt1{
+    font-size: 50px ;
+    color: aqua;
+}
+.black-sec{
+    background-color: black;
+    padding: 20px;    
+}
+.lg-txt2{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    font-weight: 100;
+    margin: 0 auto;
+}
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.3);
+    transition: 0.2s ease-in-out;
+}
+.setbg{
+    background-color: rgb(97, 38, 38);
+    color: white;
+    padding: 40px;
+}
+.setbg1{
+    background-color: rgb(26, 61, 26);
+    color: white; 
+    padding: 40px;
+     
+}
+.setsize{
+    font-weight: 100;
+    font-size: 70px;
+}
+.base{
+    background-color: black;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
